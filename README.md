@@ -1,11 +1,11 @@
-# Knowledge Jenkins
+# Knowledge GraphQL
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/knowledge-jenkins.svg)](https://github.com/org-victorinox/knowledge-jenkins/issues)
-![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/knowledge-jenkins.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/knowledge-jenkins.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/knowledge-jenkins.svg)
-![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/knowledge-jenkins/total.svg)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/knowledge-graphql.svg)](https://github.com/org-victorinox/knowledge-graphql/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/knowledge-graphql.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/knowledge-graphql.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/knowledge-graphql.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/knowledge-graphql/total.svg)
 
 ## Contributing
 
@@ -17,7 +17,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/org-victorinox/knowledge-jenkins/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/knowledge-graphql/releases) for detailed changelog.
 
 ## License
 
