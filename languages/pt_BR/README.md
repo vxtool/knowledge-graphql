@@ -31,7 +31,7 @@
 
 ## Log
 
-Verifique os [Releases](https://github.com/org-victorinox/knowledge-graphql/releases) ver detalhado o log de alterações.
+Verifique os [Releases](https://github.com/org-victorinox/knowledge-graphql/releases) para ver detalhado o log de alterações.
 
 ## Licença
 
