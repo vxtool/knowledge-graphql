@@ -7,9 +7,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/knowledge-graphql.svg)
 ![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/knowledge-graphql/total.svg)
 
-## Traduções
+## Idiomas
 
-* [ORIGINAL](https://github.com/org-victorinox/knowledge-graphql/)
+* [Inglês](https://github.com/org-victorinox/knowledge-graphql/)
 
 ## Documentação
 
@@ -18,7 +18,7 @@
 ## Sumário
 
 - [Artigos](ARTICLES.md)
-- [Projetos](https://github.com/org-victorinox/knowledge-graphql/PROJECTS.md)
+- [Projetos](https://github.com/org-victorinox/knowledge-graphql/blob/master/PROJECTS.md)
 - [Vídeos](VIDEOS.md)
 
 ## Contribuindo
@@ -31,7 +31,7 @@
 
 ## Log
 
-Verifique os [Releases](https://github.com/org-victorinox/knowledge-ajax/releases) ver detalhado o log de alterações.
+Verifique os [Releases](https://github.com/org-victorinox/knowledge-graphql/releases) ver detalhado o log de alterações.
 
 ## Licença
 
